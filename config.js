@@ -29,7 +29,7 @@ global.APIKeys = { // APIKey Here
   'https://api.zeks.xyz': 'apivinz',
   'https://hardianto-chan.herokuapp.com': 'hardianto',
   'https://pencarikode.xyz': 'pais', 
-  'https://leyscoders-api.herokuapp.com': 'MIMINGANZ' 
+  'https://leyscoders-api.herokuapp.com': 'lucilfer' 
 }
 
 // Sticker WM
